@@ -4,7 +4,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/94073563/167323520-7570a177-781a-449b-aaa8-34583b266696.jpg" width="auto" />
 </div>
-
+<br>
+<h1>Projeto hospedado no firebase</h1>
 <a href="https://netflix-clone-a62ea.web.app">clique para acessar o projeto hospedado</a>
 
 # Getting Started with Create React App
