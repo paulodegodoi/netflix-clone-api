@@ -5,6 +5,8 @@
 <img src="https://user-images.githubusercontent.com/94073563/167323520-7570a177-781a-449b-aaa8-34583b266696.jpg" width="auto" />
 </div>
 
+link para acessar o projeto hospedado: https://netflix-clone-a62ea.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
