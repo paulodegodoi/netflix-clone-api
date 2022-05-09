@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/94073563/167323520-7570a177-781a-449b-aaa8-34583b266696.jpg" width="auto" />
 </div>
 
-link para acessar o projeto hospedado: <a href="https://netflix-clone-a62ea.web.app" target="_blank"/>
+<a href="https://netflix-clone-a62ea.web.app" target="_blank">link para acessar o projeto hospedado</a>
 
 # Getting Started with Create React App
 
